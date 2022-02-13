@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>255816445196-svnf34n9f1alp0ko7hsqc2hl67cctsl1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.255816445196-svnf34n9f1alp0ko7hsqc2hl67cctsl1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAdgD36U8i1RD3rRagnQEW6kLDFgqm1uR0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>255816445196</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>app.hori.tomo.Renda2</string>
+	<key>PROJECT_ID</key>
+	<string>rendaapp-1805c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rendaapp-1805c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:255816445196:ios:ecdf29101e2eec20bded29</string>
+</dict>
+</plist>
